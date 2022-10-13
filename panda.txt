@@ -1,5 +1,5 @@
 This is first version
 This is second version
-this is third parallel version
+this is third version
 this is fourth version
 this is fifth version
